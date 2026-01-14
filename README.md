@@ -1,15 +1,15 @@
-# 👋 Hi there! I'm Edd  
+# Hi there, I'm Edd Palencia-Vanegas 👋
+Software Engineer | Machine Learning Specialist | Automation Expert
 
-🎓 I'm a passionate techie with a Master of Information Technology (Computer Science), and a Bachelor of Engineering in Software and Interactive Media.  
-🛠️ I also hold diplomas in Software Development, 3D & Interactive Games, and Management & Leadership.
+I am a Software Engineer with a Master’s in Information Technology (Computer Science). My work bridges the gap between complex data analysis and practical software solutions, with a particular focus on building intelligent systems and automating high-impact industrial workflows.
 
 ---
 
-## 👨‍💻 What I Do
+## 🚀 What I Do
 
-💼 Former Civil Technician (33+ projects!) turned to software developement.  
-🧠 I build apps, automate processes with Python, and design games in Unity.  
-🎯 Currently aiming to grow into a Software Developer and Project Manager role — and eventually run my own tech business!
+Machine Learning: Developing and optimizing models using TensorFlow and Scikit-learn, from multi-class classification to deep learning pipelines for signal processing.
+Process Automation: Transforming manual workflows into efficient digital processes—I recently engineered Python-based tools that improved data processing efficiency by up to 90%.
+Full-Stack Development & Design: Leveraging a diverse toolkit including Python, C++, C#, and JavaScript to build robust applications and research simulations.
 
 ---
 
@@ -23,24 +23,28 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+**AI & ML**:  
+TensorFlow • Scikit-learn • NumPy • Pandas 
+
 **Tools & Frameworks**:  
-VS Code • Unity • Tableau • Adobe XD • Blender • Photoshop • MySQL • TensorFlow • Autodesk Maya • GitHub
+VS Code • MySQL • Git • Unity • Tableau • Adobe XD • Blender • Photoshop • Autodesk Maya
 
 ---
 
-## 🎮 Projects I’ve Built
+## 🎮 Featured Projects
 
+- 📑 Transmittal_Auto1000: An intelligent automation suite for engineering drawing management using Python and Regex.
+- 🩺 EMG Teletherapy Research: A deep learning pipeline for digital signal processing, achieving 80% precision in anomaly detection.
+- 🛰️ Satellite Constellation Simulation: A QUT research project visualizing orbital element behavior for space-based surveillance.
 - 🗡️ A third-person melee combat game with AI enemies (Unity 3D)
 - 🎮 A 2D platformer (Unity)
-- 📊 Programs that automate PDF and Excel document processing
 - 🔍 A JavaScript + MySQL search tool for fast database lookup
-- 📑 A transmittal generator that tracks drawing revisions
 
 ---
 
 ## 🚀 Goals
 
-- 📌 Land a role as a Software Developer  
+- 📌 Land a role as one of the roles that I am passionate about: Software Engineer, AI/ML Engineer or Data Scientist.
 - 💼 Build innovative solutions that solve real business problems  
 - 🏗️ Keep growing a tech-focused business on the side
 
